@@ -1,8 +1,8 @@
 # Sudoku-Solver
 
-1) In this Sudoku Web Application, we implemented Backtracking.
+1) In this Sudoku Web Application, I implemented Backtracking.
 
-2) To build this game we used HTML, CSS & JavaScript.
+2) To build this game I used HTML, CSS & JavaScript.
 
 3) Logics and Concepts implemented in this game:
 
@@ -10,3 +10,5 @@
 <br> Mathematics
 <br> Buttons
 <br> Dynamic and Static logic
+
+Website link: https://sanchita-sudoku-solver.netlify.app/
